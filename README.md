@@ -23,7 +23,7 @@
 ## ⚙️ Installation
 1. Clone the repository or download the ZIP file:
    ```bash
-   git clone https://github.com/your-username/exchange-project.git
+   git clone https://github.com/Ela689/Exchange_project.git
    ```
 ---
 # 💻 Usage & 🤝 Contributing
