@@ -1,20 +1,48 @@
-# **Exchange project**
-### Currency Converter:
-* This is a simple currency converter program written in Java that allows users to convert between Moldovan Leu (MDL), Romanian Leu (RON), US Dollar (USD), Great British Pound (GBP), Ukrainian Hryvnia (UAH), Russian Ruble (RUB), Swiss Franc (CHF), and Euro (EUR).
+# 💱 **Exchange Project**
 
-### Installation:
-* Clone the repository or download the ZIP file.
-* Open the project in your preferred Java IDE.
-* Run the SchimbVal.java file.
+[![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)](https://www.java.com/)  
+[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()  
+[![License](https://img.shields.io/badge/License-Free-lightgrey?style=for-the-badge)]()  
 
-### Usage:
-* Select the currency you want to convert from in the "From" drop-down menu.
-* Enter the value you want to convert in the "From" text field.
-* Select the currency you want to convert to in the "To" drop-down menu.
-* Click the "Convert Currency" button to see the converted value in the "To" text field.
-* Click the "Reset" button to clear the input fields.
-* Click the "Exit" button to exit the program.
+---
 
-### Contributing:
-* This project is not open to contributions. However, feel free to clone the repository and modify the code for personal or educational purposes.
+## 🌍 Currency Converter
+**Exchange Project** is a simple **currency converter** program written in **Java** that allows users to convert between the following currencies:
 
+🇲🇩 **Moldovan Leu (MDL)**  
+🇷🇴 **Romanian Leu (RON)**  
+🇺🇸 **US Dollar (USD)**  
+🇬🇧 **Great British Pound (GBP)**  
+🇺🇦 **Ukrainian Hryvnia (UAH)**  
+🇷🇺 **Russian Ruble (RUB)**  
+🇨🇭 **Swiss Franc (CHF)**  
+🇪🇺 **Euro (EUR)**  
+
+---
+
+## ⚙️ Installation
+1. Clone the repository or download the ZIP file:
+   ```bash
+   git clone https://github.com/your-username/exchange-project.git
+   ```
+---
+# 💻 Usage & 🤝 Contributing
+
+## 🚀 Usage
+1. Select the currency you want to convert from in the **"From"** drop-down menu.  
+2. Enter the amount you want to convert in the **"From"** text field.  
+3. Select the target currency in the **"To"** drop-down menu.  
+4. Click **"Convert Currency"** to view the converted value in the **"To"** text field.  
+5. Click **"Reset"** to clear input fields.  
+6. Click **"Exit"** to close the program.  
+
+---
+
+## 🤝 Contributing
+This project is **not open to external contributions**.  
+However, feel free to:  
+- Fork or clone the repository  
+- Explore and modify the code  
+- Use it for **educational** or **personal** purposes  
+
+---
